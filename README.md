@@ -26,5 +26,5 @@ password
 # サポート
 エラーが繰り返し発生したり、わからないことがあれば[サポートサーバー](https://discord.gg/JjcgnD5VUx)に参加するか[Twitter](https://twitter.com/ColdColor_Lemon)にDMしてください。
 
-#　使用するにあたって
+# 使用するにあたって
 VenturesBOT.exeを使用して損害が発生したりトラブルになったとしても、私は一切の責任を負いません。必ず自己責任で使用してください。
