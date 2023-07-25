@@ -1,0 +1,2 @@
+# VenturesBOT
+fortnitepyを使用したFortniteBOT
